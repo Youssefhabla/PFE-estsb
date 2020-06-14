@@ -1,2 +1,2 @@
 # PFE-estsb
- Application web de gestion  des inscriptions et results des étudiants 
+ Application web de gestion  des inscriptions et résults des étudiants 
